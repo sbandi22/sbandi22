@@ -16,11 +16,11 @@
 
 ## About Me
 
-I'm Sushma Bandi — a software engineer and data practitioner with a background that sits comfortably between analytics and engineering. I hold an **MS in Data Science & Analytics from Arizona State University** (GPA 3.6), and I spent the past year at Prolifics working on enterprise data pipelines, predictive models, and BI automation.
+I'm Sushma Bandi — a software engineer and data practitioner with a background that sits comfortably between analytics and engineering. Before starting my **MS in Data Science & Analytics at Arizona State University** (GPA 3.6), I spent a year at Prolifics working on enterprise data pipelines, predictive models, and BI automation.
 
 My work tends to live where data quality, engineering, and decision-making overlap. I'm comfortable in Python and SQL, have shipped solutions on AWS and GCP, and have worked across the stack from ETL design to dashboard delivery to API integration.
 
-- Building on: ML pipelines, deep learning, and cloud-native analytics
+- Working on: ML pipelines, deep learning, and cloud-native analytics
 - Studied: Machine Learning, Deep Learning, Statistical Modeling, Experimental Design
 - Certified: AWS Solutions Architect Associate · Salesforce Agentforce Specialist · Google Cloud Skills Boost (20+ badges)
 - Looking for roles in: **Data Analytics, Data Science, Data Engineering, or SDE**
