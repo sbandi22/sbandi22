@@ -21,7 +21,7 @@ I'm Sushma Bandi — a software engineer and data practitioner with a background
 My work tends to live where data quality, engineering, and decision-making overlap. I'm comfortable in Python and SQL, have shipped solutions on AWS and GCP, and have worked across the stack from ETL design to dashboard delivery to API integration.
 
 - Building on: ML pipelines, deep learning, and cloud-native analytics
-- Currently studying: Machine Learning, Deep Learning, Statistical Modeling, Experimental Design
+- Studied: Machine Learning, Deep Learning, Statistical Modeling, Experimental Design
 - Certified: AWS Solutions Architect Associate · Salesforce Agentforce Specialist · Google Cloud Skills Boost (20+ badges)
 - Looking for roles in: **Data Analytics, Data Science, Data Engineering, or SDE**
 
